@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello %s!</string>
+    <string name="first_brewed">First brewed: %s</string>
+    <string name="load">Load</string>
+    <string name="reload">Reload</string>
+    <string name="loading">Loading</string>
+    <string name="scan">Scan</string>
+    <string name="api_call">Api Call</string>
+    <string name="resources">Resources</string>
+    <string name="scanner">Scanner</string>
+</resources>

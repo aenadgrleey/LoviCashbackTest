@@ -1,0 +1,16 @@
+PODS:
+  - BarcodeScanner (5.0.0)
+
+DEPENDENCIES:
+  - BarcodeScanner
+
+SPEC REPOS:
+  trunk:
+    - BarcodeScanner
+
+SPEC CHECKSUMS:
+  BarcodeScanner: 2f5a53198eae49dc39bf61f2c1f05c04e01ff72d
+
+PODFILE CHECKSUM: d6a3e572e6a4cfe75613aaeb69eee7c639213b85
+
+COCOAPODS: 1.14.3
